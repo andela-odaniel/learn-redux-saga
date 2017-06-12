@@ -9,7 +9,7 @@ Setup
 // clone the repo
 https://github.com/andela-odaniel/learn-redux-saga
 
-cd redux-saga-beginner-tutorial
+cd learn-redux-saga
 
 npm install
 ```
